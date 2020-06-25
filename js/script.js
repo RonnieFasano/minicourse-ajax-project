@@ -1,4 +1,3 @@
-///////////
 function loadData() {
 
     var $body = $('body');
